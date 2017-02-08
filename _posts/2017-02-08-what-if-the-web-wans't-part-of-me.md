@@ -2,6 +2,7 @@
 layout: post
 title: What if the web wasn't part of me ?
 image: /img/internet.jpg
+bigimg: /img/internet.jpg
 tags:
 ---
 
