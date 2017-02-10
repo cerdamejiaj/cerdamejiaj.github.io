@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerfenson Cerda Mejia</title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>What if the web wasn't part of me ?</title>
+        <description>
+          
+          hell0
+
+ No Internet
+ flickr photo by Graciolli Dotcom shared under a 
+Creative Commons (BY) license 
+
+        </description>
+        <pubDate>Wed, 08 Feb 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-02-08-what-if-the-web-wans't-part-of-me/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-08-what-if-the-web-wans't-part-of-me/</guid>
+      </item>
+    
+      <item>
+        <title>Hello_world</title>
+        <description>
+          
+          This is my personal website were I’m basically going to share my whole life, my personal and professional life.
+I will be posting a lot of content soon,so be ready !
+
+        </description>
+        <pubDate>Mon, 06 Feb 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-02-06-first-post/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-06-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>
