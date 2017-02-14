@@ -33,6 +33,6 @@ Even though I didn't have any first-hand experience with the violence, the abuse
 
 
 
-<small> <a title="No Internet" href="https://flickr.com/photos/marcelograciolli/2807100863">No Internet
-</a> flickr photo by <a href="https://flickr.com/people/marcelograciolli">Graciolli Dotcom</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">
+<small> <a title="No Internet" href="https://pixabay.com/en/internet-wlan-radio-network-1606103/">No Internet
+</a> pixabay photo by <a href="https://pixabay.com/en/users/IO-Images-1096650/">Deutsch</a> shared under a <a href="https://creativecommons.org/licenses/by/2.0/">
 Creative Commons (BY) license</a> </small>
