@@ -43,7 +43,7 @@ author:
   email: "cerdamejiaj@allegheny.edu"
   #facebook:  Jerfenson Cerda Mejia # eg. daattali
   github: cerdamejiaj    # eg. daattali
-  #twitter: yourname   # eg. daattali
+  twitter: jeffersoncerda1   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -59,8 +59,8 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
-  twitter: false
+  email: true;
+  twitter: true;
   google-plus: false
   github: true
   reddit: false
@@ -75,7 +75,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true;
   facebook: false
   google: false
   linkedin: true
