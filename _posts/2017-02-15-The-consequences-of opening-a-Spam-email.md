@@ -2,9 +2,10 @@
 layout: post
 title: The consequences of opening a Spam email.
 image: /img/Spam.jpg
-bigimg: /img/Spam.jpg
+bigimg: /img/Spam2.jpg
 tags:
 ---
+  We all know about Gmail and how beneficial it is for our lives.  
 
 
 

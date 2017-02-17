@@ -7,15 +7,25 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>What if the web wasn't part of me ?</title>
+        <title>The consequences of opening a Spam email.</title>
         <description>
           
-          hell0
+          We all know about Gmail and how beneficial it is for our lives.
 
- No Internet
- flickr photo by Graciolli Dotcom shared under a 
+ Spam pixabay photo by Geralt shared under a 
 Creative Commons (BY) license 
 
+        </description>
+        <pubDate>Wed, 15 Feb 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2017-02-15-The-consequences-of-opening-a-Spam-email/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017-02-15-The-consequences-of-opening-a-Spam-email/</guid>
+      </item>
+    
+      <item>
+        <title>What if the internet wasn't part of me ?</title>
+        <description>
+          
+          TL;DR: This article is about if the internet wasn’t part of me, I write about the best and worse case scenarios of how my life would be and also how my life has changed because the internet is part of me. Ever since I first started using the internet when...
         </description>
         <pubDate>Wed, 08 Feb 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/2017-02-08-what-if-the-web-wans't-part-of-me/</link>
