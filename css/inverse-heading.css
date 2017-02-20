@@ -1,0 +1,13 @@
+.intro-header.big-img .page-heading,
+.intro-header.big-img .post-heading {
+  /*color: #FFF;*/
+  /*text-shadow: 1px 1px 3px #000;*/
+  color:#FFFFFF;
+  text-shadow: 0 0 20px #000000, 0 0 10px #00008B;
+}
+
+.intro-header.big-img .post-heading .post-meta {
+  /*color: #EEE;*/
+  color:#FFFFFF;
+  text-shadow: 0 0 3px #000000, 0 0 1px #AAAA20;
+}
