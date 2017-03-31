@@ -1,6 +1,6 @@
 ---
 layout: post-inverse-heading
-title: The consequences of opening a Spam email.
+title: The consequences of opening a Spam email
 image: /img/Spam.jpg
 bigimg: /img/Spam2.jpg
 tags:
