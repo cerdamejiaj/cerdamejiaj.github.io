@@ -1,0 +1,31 @@
+---
+layout: post-inverse-heading
+title:  How the education system has failed to educate students on plagiarism
+image: /img/original.jpg
+bigimg: /img/original.jpg
+tags:
+---
+TL;DR:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<small>Photo credit: <a href="https://www.flickr.com/photos/wwworks/6305470569/">woodleywonderworks</a> via <a href="http://foter.com/re/3f17b7">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/">CC BY</a> </small>
