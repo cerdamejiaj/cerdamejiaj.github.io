@@ -18,7 +18,6 @@ start to develop some writing skills and also they start writing essays. Some mi
 starting early has many benefits. Middle school students will start to develop writing skills that will help then do better in their English state tests. They will be better prepared when they get to high school where they will have to do a more intensive structure. After years of developing many writing skills and improving their writing, once students get to college they will have these skill that will help them
 throughout college and essentially they will not have to plagiarize when they have to write their papers.
 
-
 With plagiarism being a problem that has been growing in high school and college. We have to look at the different roots that lead students to plagiarize. The education system being one of those main roots,
 we have to change something about it. My solution is just the basics of a more bigger structure when it comes to changing English classes in middle school and high school. There are many other things that can
 also be added to my solution, but there will also opposing sides to my solution as well. If we want to decrease the number of students who plagiarize, we must start in your education system and help students
