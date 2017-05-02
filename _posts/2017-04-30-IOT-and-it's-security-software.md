@@ -2,7 +2,7 @@
 layout: post-inverse-heading
 title:  Internet of Things
 subtitle: The reasons why having a strong security software is important
-image: /img/network.png
+image: /img/network2.png
 bigimg: /img/network.png
 tags:
 ---
@@ -22,32 +22,4 @@ When moving to a new era of technology where everything is connected and becomin
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<small>Photo credit:<a href="https://pixabay.com/en/network-iot-internet-of-things-782707/">jeferrb</a> via <a href="https://pixabay.com/en/users/jeferrb-590530/">pixabay.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/">CC BY</a> </small>
+<small>Photo credit:<a href="https://pixabay.com/en/network-iot-internet-of-things-782707/">jeferrb</a> via <a href="https://pixabay.com/en/users/jeferrb-590530/">pixabay.com</a>/<a href="http://creativecommons.org/licenses/by/2.0/">CC BY</a> </small>
