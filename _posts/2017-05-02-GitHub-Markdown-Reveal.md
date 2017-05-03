@@ -2,7 +2,7 @@
 layout: post
 title: The used of Github, Markdown, and Reveal.js
 image: /img/digital.jpg
-bigimg: /img/digital2.jpg
+bigimg: /img/12.jpg
 tags: [random, exciting-stuff]
 ---
 
